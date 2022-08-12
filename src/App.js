@@ -10,7 +10,17 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Kristy</small>
+          <small>
+            This project was coded by Kristy-Ann and open-sourced on{" "}
+            <a
+              href="https://github.com/kag0224/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {" "}
+              GitHub{" "}
+            </a>
+          </small>
         </footer>
       </div>
     </div>
