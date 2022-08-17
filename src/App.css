@@ -1,6 +1,17 @@
+body {
+  background: #360827;
+  color: #771144;
+}
+
+a {
+  color: #85346a;
+}
+
 .App-header {
   text-align: center;
-  font-size: 36px;
+  font-size: 42px;
+  font-weight: 500;
+  margin-top: 18px;
 }
 
 .App-footer {
