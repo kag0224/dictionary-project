@@ -1,10 +1,18 @@
 body {
-  background: #360827;
-  color: #771144;
+  background: linear-gradient(
+    to top,
+    lightgrey 0%,
+    lightgrey 1%,
+    #e0e0e0 26%,
+    #efefef 48%,
+    #d9d9d9 75%,
+    #bcbcbc 100%
+  );
+  color: #3e4a61;
 }
 
 a {
-  color: #85346a;
+  color: #50717b;
 }
 
 .App-header {

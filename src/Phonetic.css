@@ -3,7 +3,7 @@
 }
 
 .Phonetic a {
-  border: 1px solid rgb(126, 38, 79);
+  border: 1px solid rgb(63, 95, 114);
   text-decoration: none;
   font-size: 14px;
   padding: 10px 18px;
@@ -12,8 +12,8 @@
 }
 
 .Phonetic a:hover {
-  background: #85346a;
-  color: #fdf0f6;
+  background: #50717b;
+  color: #f6f5f5;
   transition: all 150ms ease-in-out;
 }
 
